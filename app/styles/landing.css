@@ -33,6 +33,7 @@ body.landing {
     position: relative;
     padding: 2rem;
     text-align: center;
+    opacity: 1;
 }
 .point .point-title {
     font-size: 1.25rem;
